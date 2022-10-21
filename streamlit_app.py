@@ -1,3 +1,3 @@
+import Streamlit
 
-Import Streamlit
 Streamlit.title(" MY PARENTS HEALTHY DINER")
